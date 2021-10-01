@@ -1,0 +1,18 @@
+!SESSION 2021-10-01 11:28:47.677 -----------------------------------------------
+eclipse.buildId=Version 1.7.0
+java.version=11.0.10
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_GB
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2021-10-01 11:29:39.671
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2021-10-01 11:29:39.720
+!MESSAGE Log4j initialized with config file C:\Users\BeTra\Documents\open_servo\Software\Cube_IDE_workspace_1.6.1\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2021-10-01 11:29:42.561
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-10-01 11:31:27.448
+!MESSAGE Indexed 'Opensource_servo_controller' (28 sources, 88 headers) in 3.78 sec: 7,233 declarations; 44,299 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0039%)
